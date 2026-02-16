@@ -22,3 +22,50 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Environment files (sensitive) - do NOT commit
+.env
+.env.*
+.env.local
+.env.*.local
+.env.production
+.env.development
+
+# Secrets, keys and certificates
+*.pem
+*.key
+*.p12
+*.jks
+secrets.json
+credentials.json
+*.pfx
+
+# Build / cache / temp
+/.vite
+/build
+/.cache
+tmp/
+temp/
+.cache/
+coverage/
+
+# OS files
+Thumbs.db
+
+# Lockfiles (optional - keep if you want deterministic installs)
+# package-lock.json
+# pnpm-lock.yaml
+# yarn.lock
+
+# Ignore local editors swap files
+*~
+*.swp
+
+# Misc
+/.envrc
+
+# Generated assets
+assets/*.map
+
+# Ignore dist artifacts
+dist/
