@@ -67,5 +67,8 @@ Thumbs.db
 # Generated assets
 assets/*.map
 
+# Ignore Claude/AI assistant temp files
+.claude
+
 # Ignore dist artifacts
 dist/
