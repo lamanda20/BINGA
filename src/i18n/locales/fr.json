@@ -1,0 +1,164 @@
+{
+  "nav": {
+    "about": "À Propos",
+    "services": "Services",
+    "pricing": "Tarifs",
+    "contact": "Contact",
+    "cta": "Mise en gestion"
+  },
+  "hero": {
+    "subtitle": "Conciergerie de gestion locative",
+    "title": "une gestion clé en main",
+    "cta": "Mise en gestion"
+  },
+  "commitments": {
+    "title": "Nos Engagements",
+    "subtitle": "Nous valorisons la confiance de nos clients",
+    "flexibility": {
+      "title": "Flexibilité",
+      "description": "Votre propriété reste à votre disposition. Réservez à tout moment les périodes souhaitées pour votre usage personnel, directement depuis votre accès privé."
+    },
+    "profitability": {
+      "title": "Rentabilité",
+      "description": "En moyenne, nos clients constatent une augmentation de 30% de leurs revenus grâce à l'ajustement quotidien des tarifs et l'optimisation de la visibilité."
+    },
+    "zeroStress": {
+      "title": "Zéro Stress",
+      "description": "De la réservation à la maintenance, nous gérons tout 24h/24. Détendez-vous pendant que nous nous occupons de chaque détail."
+    }
+  },
+  "fullManagement": {
+    "title": "Une gestion complète",
+    "subtitle": "La conciergerie Airbnb simple et sécurisée",
+    "description": "Nous gérons l'intégralité du cycle de la location courte durée : de l'arrivée des voyageurs au départ, de la gestion des réservations à la maintenance quotidienne. Chaque détail est soigné pour offrir une expérience excellente à vos voyageurs et maximiser vos revenus."
+  },
+  "partner": {
+    "title": "Un partenaire fiable",
+    "subtitle": "Louez votre résidence en toute confiance",
+    "description": "BINGA Management est le spécialiste de la gestion de propriétés Airbnb en Italie. Notre équipe de professionnels dédiés vous accompagne à chaque étape, garantissant une transparence totale et des résultats concrets."
+  },
+  "solutions": {
+    "title": "Des solutions sur mesure",
+    "subtitle": "Une prestation premium pour valoriser votre propriété",
+    "description": "Chaque propriété est unique. C'est pourquoi nous élaborons des stratégies personnalisées, utilisant des outils modernes et des analyses de marché approfondies. En moyenne, nos propriétaires enregistrent une augmentation de 30% des revenus."
+  },
+  "services": {
+    "title": "Nos Services",
+    "subtitle": "Votre conciergerie de référence pour la location saisonnière",
+    "items": {
+      "1": { "title": "Création et gestion de votre annonce", "description": "Photographies professionnelles, descriptions optimisées et publication sur toutes les plateformes principales." },
+      "2": { "title": "Référencement optimisé", "description": "Stratégies SEO et de visibilité pour positionner votre annonce en tête des résultats de recherche." },
+      "3": { "title": "Tarification dynamique", "description": "Ajustement quotidien des prix basé sur la saisonnalité, la demande et les événements locaux." },
+      "4": { "title": "Check-in & Check-out", "description": "Accueil personnalisé des voyageurs, remise des clés et inventaire professionnel." },
+      "5": { "title": "Ménage et linge premium", "description": "Équipe dédiée pour le nettoyage professionnel, le changement de linge et le réapprovisionnement." },
+      "6": { "title": "Maintenance préventive et dépannages rapides", "description": "Inspections régulières et réponse immédiate à tout problème technique." },
+      "7": { "title": "Kit d'accueil personnalisé", "description": "Accueil chaleureux avec des produits locaux sélectionnés pour une expérience inoubliable." },
+      "8": { "title": "Support voyageurs 24/7", "description": "Assistance continue pour les voyageurs pendant tout le séjour, en plusieurs langues." },
+      "9": { "title": "Instructions d'accès simplifiées", "description": "Guides numériques détaillés pour une arrivée autonome et sans souci." },
+      "10": { "title": "Guide équipements et wifi", "description": "Documentation complète sur l'utilisation de tous les équipements de la propriété." }
+    }
+  },
+  "pricing": {
+    "title": "Nos Tarifs de Conciergerie et Gestion Locative",
+    "partial": {
+      "title": "Gestion Partielle",
+      "price": "10%",
+      "priceLabel": "TTC par réservation",
+      "features": [
+        "Gestion complète de l'annonce",
+        "Stratégie de tarification dynamique",
+        "Le propriétaire gère check-in/check-out et maintenance",
+        "Assistance client pré-séjour"
+      ],
+      "cta": "Opter pour ce plan"
+    },
+    "full": {
+      "title": "Gestion Intégrale",
+      "badge": "Recommandé",
+      "price": "20%",
+      "priceLabel": "TTC par réservation",
+      "features": [
+        "Gestion complète de l'annonce",
+        "Stratégie de tarification dynamique",
+        "Check-in/check-out et inventaire complets",
+        "Support et accueil voyageurs 24/7",
+        "Ménage, maintenance et linge",
+        "Analyse des revenus et rapports détaillés"
+      ],
+      "cta": "Opter pour ce plan"
+    }
+  },
+  "whyUs": {
+    "title": "Pourquoi choisir",
+    "brand": "BINGA Management",
+    "reasons": {
+      "1": { "title": "Pas de temps ou pas sur place ?", "description": "Nous nous occupons de tout en votre absence, comme si la propriété était la nôtre." },
+      "2": { "title": "Suivi en temps réel", "description": "Suivez en temps réel l'activité de votre propriété depuis votre accès dédié." },
+      "3": { "title": "Transparence et redevabilité", "description": "Rapports clairs et détaillés, communication constante et aucun frais caché." }
+    },
+    "transparency": {
+      "title": "Transparence et redevabilité",
+      "subtitle": "Suivez en temps réel l'activité de votre propriété",
+      "features": [
+        "Planification flexible : bloquez des dates spécifiques depuis votre accès privé",
+        "Suivi instantané des revenus",
+        "Rapports clairs et informatifs pour la gestion des activités"
+      ]
+    }
+  },
+  "contact": {
+    "title": "Commençons à Collaborer",
+    "subtitle": "Remplissez le formulaire pour recevoir une évaluation gratuite de votre propriété.",
+    "form": {
+      "name": "Nom Complet",
+      "namePlaceholder": "Votre nom complet",
+      "email": "Email",
+      "emailPlaceholder": "votre@email.com",
+      "phone": "Téléphone",
+      "phonePlaceholder": "+39 123 456 7890",
+      "propertyType": "Type de Propriété",
+      "propertyTypePlaceholder": "Sélectionnez le type",
+      "propertyTypes": {
+        "apartment": "Appartement",
+        "villa": "Villa",
+        "house": "Maison",
+        "studio": "Studio",
+        "other": "Autre"
+      },
+      "message": "Message",
+      "messagePlaceholder": "Parlez-nous de votre propriété...",
+      "submit": "Envoyer la Demande",
+      "sending": "Envoi en cours...",
+      "success": "Message envoyé avec succès ! Nous vous contacterons bientôt.",
+      "error": "Une erreur s'est produite. Veuillez réessayer."
+    },
+    "info": {
+      "title": "Informations de Contact",
+      "email": "info@bingamanagement.com",
+      "phone": "+39 02 1234 5678",
+      "address": "Via della Spiga 26, 20121 Milan, Italie",
+      "hours": "Lun - Ven : 9h00 - 18h00"
+    },
+    "validation": {
+      "nameRequired": "Le nom est obligatoire",
+      "emailRequired": "L'email est obligatoire",
+      "emailInvalid": "Veuillez entrer un email valide",
+      "phoneRequired": "Le téléphone est obligatoire",
+      "propertyTypeRequired": "Veuillez sélectionner le type",
+      "messageRequired": "Le message est obligatoire"
+    }
+  },
+  "footer": {
+    "description": "La conciergerie Airbnb leader en Italie. Nous gérons votre propriété avec excellence.",
+    "contact": "Contact",
+    "learnMore": "En savoir plus",
+    "learnMoreLinks": { "faq": "FAQ", "about": "À Propos", "blog": "Blog" },
+    "legal": "Légal",
+    "legalLinks": { "cookies": "Cookies", "privacy": "Confidentialité", "terms": "Conditions Générales" },
+    "locations": {
+      "milano": "Milan : Via della Spiga 26, 20121",
+      "roma": "Rome : Via del Corso 112, 00186"
+    },
+    "copyright": "©2025 BINGA MANAGEMENT - Tous droits réservés"
+  }
+}

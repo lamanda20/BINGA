@@ -1,0 +1,164 @@
+{
+  "nav": {
+    "about": "Chi Siamo",
+    "services": "Servizi",
+    "pricing": "Tariffe",
+    "contact": "Contatti",
+    "cta": "Messa in gestione"
+  },
+  "hero": {
+    "subtitle": "Conciergerie di gestione locativa",
+    "title": "una gestione chiavi in mano",
+    "cta": "Messa in gestione"
+  },
+  "commitments": {
+    "title": "I Nostri Impegni",
+    "subtitle": "Valorizziamo la fiducia dei nostri clienti",
+    "flexibility": {
+      "title": "Flessibilità",
+      "description": "La tua proprietà resta a tua disposizione. Riserva in qualsiasi momento i periodi che desideri per uso personale, direttamente dal tuo accesso privato."
+    },
+    "profitability": {
+      "title": "Redditività",
+      "description": "In media, i nostri clienti vedono un aumento del 30% dei loro ricavi grazie all'adeguamento quotidiano delle tariffe e all'ottimizzazione della visibilità."
+    },
+    "zeroStress": {
+      "title": "Zero Stress",
+      "description": "Dalla prenotazione alla manutenzione, gestiamo tutto 24 ore su 24. Puoi rilassarti mentre noi ci occupiamo di ogni dettaglio."
+    }
+  },
+  "fullManagement": {
+    "title": "Una gestione completa",
+    "subtitle": "La conciergerie Airbnb semplice e sicura",
+    "description": "Gestiamo l'intero ciclo della locazione breve: dall'arrivo degli ospiti alla partenza, dalla gestione delle prenotazioni alla manutenzione quotidiana. Ogni dettaglio è curato per offrire un'esperienza eccellente ai tuoi viaggiatori e massimizzare i tuoi ricavi."
+  },
+  "partner": {
+    "title": "Un partner affidabile",
+    "subtitle": "Affitta la tua residenza in tutta tranquillità",
+    "description": "BINGA Management è lo specialista nella gestione di proprietà Airbnb in Italia. Il nostro team di professionisti dedicati ti accompagna in ogni fase, garantendo trasparenza totale e risultati concreti."
+  },
+  "solutions": {
+    "title": "Soluzioni su misura",
+    "subtitle": "Un servizio premium per valorizzare la tua proprietà",
+    "description": "Ogni proprietà è unica. Per questo elaboriamo strategie personalizzate, utilizzando strumenti moderni e analisi di mercato approfondite. In media, i nostri proprietari registrano un aumento del 30% dei ricavi."
+  },
+  "services": {
+    "title": "I Nostri Servizi",
+    "subtitle": "La tua conciergerie di riferimento per la locazione stagionale",
+    "items": {
+      "1": { "title": "Creazione e gestione del tuo annuncio", "description": "Fotografie professionali, descrizioni ottimizzate e pubblicazione su tutte le piattaforme principali." },
+      "2": { "title": "Posizionamento ottimizzato", "description": "Strategie SEO e di visibilità per posizionare il tuo annuncio in cima ai risultati di ricerca." },
+      "3": { "title": "Tariffazione dinamica", "description": "Adeguamento quotidiano dei prezzi basato sulla stagionalità, la domanda e gli eventi locali." },
+      "4": { "title": "Check-in & Check-out", "description": "Accoglienza personalizzata degli ospiti, consegna chiavi e inventario professionale." },
+      "5": { "title": "Pulizia e biancheria premium", "description": "Team dedicato per pulizie professionali, cambio biancheria e rifornimento prodotti." },
+      "6": { "title": "Manutenzione preventiva e interventi rapidi", "description": "Ispezioni regolari e risposta immediata a qualsiasi problema tecnico." },
+      "7": { "title": "Kit di benvenuto personalizzato", "description": "Accoglienza calorosa con prodotti locali selezionati per un'esperienza indimenticabile." },
+      "8": { "title": "Supporto viaggiatori 24/7", "description": "Assistenza continua per gli ospiti durante tutto il soggiorno, in più lingue." },
+      "9": { "title": "Istruzioni di accesso semplificate", "description": "Guide digitali dettagliate per un arrivo autonomo e senza problemi." },
+      "10": { "title": "Guida attrezzature e wifi", "description": "Documentazione completa sull'utilizzo di tutti gli equipaggiamenti della proprietà." }
+    }
+  },
+  "pricing": {
+    "title": "Le Nostre Tariffe di Conciergerie e Gestione Locativa",
+    "partial": {
+      "title": "Gestione Parziale",
+      "price": "10%",
+      "priceLabel": "IVA inclusa per prenotazione",
+      "features": [
+        "Gestione completa dell'annuncio",
+        "Strategia di tariffazione dinamica",
+        "Il proprietario gestisce check-in/check-out e manutenzione",
+        "Assistenza cliente pre-soggiorno"
+      ],
+      "cta": "Scegli questo piano"
+    },
+    "full": {
+      "title": "Gestione Integrale",
+      "badge": "Consigliato",
+      "price": "20%",
+      "priceLabel": "IVA inclusa per prenotazione",
+      "features": [
+        "Gestione completa dell'annuncio",
+        "Strategia di tariffazione dinamica",
+        "Check-in/check-out e inventario completo",
+        "Supporto e accoglienza ospiti 24/7",
+        "Pulizia, manutenzione e biancheria",
+        "Analisi dei ricavi e report dettagliati"
+      ],
+      "cta": "Scegli questo piano"
+    }
+  },
+  "whyUs": {
+    "title": "Perché scegliere",
+    "brand": "BINGA Management",
+    "reasons": {
+      "1": { "title": "Non hai tempo o non sei sul posto?", "description": "Ci occupiamo di tutto in tua assenza, come se la proprietà fosse nostra." },
+      "2": { "title": "Monitoraggio in tempo reale", "description": "Segui in tempo reale l'attività della tua proprietà dal tuo accesso dedicato." },
+      "3": { "title": "Trasparenza e responsabilità", "description": "Report chiari e dettagliati, comunicazione costante e nessun costo nascosto." }
+    },
+    "transparency": {
+      "title": "Trasparenza e responsabilità",
+      "subtitle": "Segui in tempo reale l'attività della tua proprietà",
+      "features": [
+        "Pianificazione flessibile: blocca date specifiche dal tuo accesso privato",
+        "Monitoraggio istantaneo dei ricavi",
+        "Report chiari e informativi per la gestione delle attività"
+      ]
+    }
+  },
+  "contact": {
+    "title": "Iniziamo a Collaborare",
+    "subtitle": "Compila il modulo per ricevere una valutazione gratuita della tua proprietà.",
+    "form": {
+      "name": "Nome e Cognome",
+      "namePlaceholder": "Il tuo nome completo",
+      "email": "Email",
+      "emailPlaceholder": "la.tua@email.com",
+      "phone": "Telefono",
+      "phonePlaceholder": "+39 123 456 7890",
+      "propertyType": "Tipo di Proprietà",
+      "propertyTypePlaceholder": "Seleziona il tipo",
+      "propertyTypes": {
+        "apartment": "Appartamento",
+        "villa": "Villa",
+        "house": "Casa",
+        "studio": "Monolocale",
+        "other": "Altro"
+      },
+      "message": "Messaggio",
+      "messagePlaceholder": "Raccontaci della tua proprietà...",
+      "submit": "Invia Richiesta",
+      "sending": "Invio in corso...",
+      "success": "Messaggio inviato con successo! Ti contatteremo presto.",
+      "error": "Errore. Riprova più tardi."
+    },
+    "info": {
+      "title": "Informazioni di Contatto",
+      "email": "info@bingamanagement.com",
+      "phone": "+39 02 1234 5678",
+      "address": "Via della Spiga 26, 20121 Milano, Italia",
+      "hours": "Lun - Ven: 9:00 - 18:00"
+    },
+    "validation": {
+      "nameRequired": "Il nome è obbligatorio",
+      "emailRequired": "L'email è obbligatoria",
+      "emailInvalid": "Inserisci un'email valida",
+      "phoneRequired": "Il telefono è obbligatorio",
+      "propertyTypeRequired": "Seleziona il tipo di proprietà",
+      "messageRequired": "Il messaggio è obbligatorio"
+    }
+  },
+  "footer": {
+    "description": "La conciergerie Airbnb leader in Italia. Gestiamo la tua proprietà con eccellenza.",
+    "contact": "Contatti",
+    "learnMore": "Per saperne di più",
+    "learnMoreLinks": { "faq": "FAQ", "about": "Chi Siamo", "blog": "Blog" },
+    "legal": "Legale",
+    "legalLinks": { "cookies": "Cookies", "privacy": "Privacy", "terms": "Termini e Condizioni" },
+    "locations": {
+      "milano": "Milano: Via della Spiga 26, 20121",
+      "roma": "Roma: Via del Corso 112, 00186"
+    },
+    "copyright": "©2025 BINGA MANAGEMENT - Tutti i diritti riservati"
+  }
+}

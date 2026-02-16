@@ -1,0 +1,164 @@
+{
+  "nav": {
+    "about": "About",
+    "services": "Services",
+    "pricing": "Pricing",
+    "contact": "Contact",
+    "cta": "Property Management"
+  },
+  "hero": {
+    "subtitle": "Property management concierge",
+    "title": "turnkey management",
+    "cta": "Property Management"
+  },
+  "commitments": {
+    "title": "Our Commitments",
+    "subtitle": "We value our clients' trust",
+    "flexibility": {
+      "title": "Flexibility",
+      "description": "Your property remains at your disposal. Reserve anytime the periods you wish for personal use, directly from your private access."
+    },
+    "profitability": {
+      "title": "Profitability",
+      "description": "On average, our clients see a 30% increase in revenue through daily rate adjustments and optimized visibility."
+    },
+    "zeroStress": {
+      "title": "Zero Stress",
+      "description": "From booking to maintenance, we handle everything 24/7. Relax while we take care of every detail."
+    }
+  },
+  "fullManagement": {
+    "title": "Complete management",
+    "subtitle": "Simple and secure Airbnb concierge",
+    "description": "We manage the entire short-term rental cycle: from guest arrival to departure, from booking management to daily maintenance. Every detail is crafted to deliver an excellent experience for your travelers and maximize your revenue."
+  },
+  "partner": {
+    "title": "A reliable partner",
+    "subtitle": "Rent your property with complete peace of mind",
+    "description": "BINGA Management is the specialist in Airbnb property management in Italy. Our team of dedicated professionals supports you at every step, ensuring total transparency and concrete results."
+  },
+  "solutions": {
+    "title": "Tailored solutions",
+    "subtitle": "A premium service to enhance your property",
+    "description": "Every property is unique. That's why we develop personalized strategies using modern tools and in-depth market analysis. On average, our owners see a 30% increase in revenue."
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Your reference concierge for seasonal rentals",
+    "items": {
+      "1": { "title": "Listing creation & management", "description": "Professional photography, optimized descriptions, and publication on all major platforms." },
+      "2": { "title": "Optimized positioning", "description": "SEO and visibility strategies to rank your listing at the top of search results." },
+      "3": { "title": "Dynamic pricing", "description": "Daily price adjustments based on seasonality, demand, and local events." },
+      "4": { "title": "Check-in & Check-out", "description": "Personalized guest welcome, key handover, and professional inventory." },
+      "5": { "title": "Premium cleaning & linens", "description": "Dedicated team for professional cleaning, linen changes, and product restocking." },
+      "6": { "title": "Preventive maintenance & quick repairs", "description": "Regular inspections and immediate response to any technical issue." },
+      "7": { "title": "Personalized welcome kit", "description": "Warm welcome with selected local products for an unforgettable experience." },
+      "8": { "title": "24/7 traveler support", "description": "Continuous assistance for guests throughout their stay, in multiple languages." },
+      "9": { "title": "Simplified access instructions", "description": "Detailed digital guides for a smooth, self-guided arrival." },
+      "10": { "title": "Equipment & wifi guide", "description": "Complete documentation on using all property equipment." }
+    }
+  },
+  "pricing": {
+    "title": "Our Concierge & Property Management Rates",
+    "partial": {
+      "title": "Partial Management",
+      "price": "10%",
+      "priceLabel": "incl. tax per booking",
+      "features": [
+        "Complete listing management",
+        "Dynamic pricing strategy",
+        "Owner handles check-in/check-out & maintenance",
+        "Pre-stay customer assistance"
+      ],
+      "cta": "Choose this plan"
+    },
+    "full": {
+      "title": "Full Management",
+      "badge": "Recommended",
+      "price": "20%",
+      "priceLabel": "incl. tax per booking",
+      "features": [
+        "Complete listing management",
+        "Dynamic pricing strategy",
+        "Full check-in/check-out & inventory",
+        "24/7 guest support & reception",
+        "Cleaning, maintenance & linens",
+        "Revenue analysis & detailed reports"
+      ],
+      "cta": "Choose this plan"
+    }
+  },
+  "whyUs": {
+    "title": "Why choose",
+    "brand": "BINGA Management",
+    "reasons": {
+      "1": { "title": "No time or not on-site?", "description": "We handle everything in your absence, as if the property were our own." },
+      "2": { "title": "Real-time monitoring", "description": "Track your property's activity in real-time from your dedicated access." },
+      "3": { "title": "Transparency & accountability", "description": "Clear, detailed reports, constant communication, and no hidden costs." }
+    },
+    "transparency": {
+      "title": "Transparency & accountability",
+      "subtitle": "Track your property's activity in real-time",
+      "features": [
+        "Flexible scheduling: block specific dates from your private access",
+        "Instant revenue tracking",
+        "Clear, informative reports for activity management"
+      ]
+    }
+  },
+  "contact": {
+    "title": "Let's Start Working Together",
+    "subtitle": "Fill out the form to receive a free evaluation of your property.",
+    "form": {
+      "name": "Full Name",
+      "namePlaceholder": "Your full name",
+      "email": "Email",
+      "emailPlaceholder": "your@email.com",
+      "phone": "Phone",
+      "phonePlaceholder": "+39 123 456 7890",
+      "propertyType": "Property Type",
+      "propertyTypePlaceholder": "Select type",
+      "propertyTypes": {
+        "apartment": "Apartment",
+        "villa": "Villa",
+        "house": "House",
+        "studio": "Studio",
+        "other": "Other"
+      },
+      "message": "Message",
+      "messagePlaceholder": "Tell us about your property...",
+      "submit": "Send Request",
+      "sending": "Sending...",
+      "success": "Message sent successfully! We'll contact you soon.",
+      "error": "An error occurred. Please try again later."
+    },
+    "info": {
+      "title": "Contact Information",
+      "email": "info@bingamanagement.com",
+      "phone": "+39 02 1234 5678",
+      "address": "Via della Spiga 26, 20121 Milan, Italy",
+      "hours": "Mon - Fri: 9:00 AM - 6:00 PM"
+    },
+    "validation": {
+      "nameRequired": "Name is required",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Please enter a valid email",
+      "phoneRequired": "Phone is required",
+      "propertyTypeRequired": "Please select a property type",
+      "messageRequired": "Message is required"
+    }
+  },
+  "footer": {
+    "description": "Italy's leading Airbnb concierge. We manage your property with excellence.",
+    "contact": "Contact",
+    "learnMore": "Learn More",
+    "learnMoreLinks": { "faq": "FAQ", "about": "About Us", "blog": "Blog" },
+    "legal": "Legal",
+    "legalLinks": { "cookies": "Cookies", "privacy": "Privacy", "terms": "Terms & Conditions" },
+    "locations": {
+      "milano": "Milan: Via della Spiga 26, 20121",
+      "roma": "Rome: Via del Corso 112, 00186"
+    },
+    "copyright": "©2025 BINGA MANAGEMENT - All rights reserved"
+  }
+}
